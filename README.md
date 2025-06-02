@@ -25,3 +25,6 @@ This project demonstrates a serverless data pipeline to ingest only high-quality
 4. Glue ETL job transforms and loads clean data to Redshift
 5. EventBridge triggers SNS alerts on job status
 
+
+## SNS notification 
+![image](https://github.com/user-attachments/assets/654701bb-33a5-4d9c-be2d-9aa743323ebb)
