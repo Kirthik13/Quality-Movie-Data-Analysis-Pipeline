@@ -24,6 +24,7 @@ This project demonstrates a serverless data pipeline to ingest only high-quality
 3. Data Quality rules evaluate dataset integrity
 4. Glue ETL job transforms and loads clean data to Redshift
 5. EventBridge triggers SNS alerts on job status
+![Architecture](https://github.com/user-attachments/assets/7b349419-7f32-4fa7-95aa-f5965b479fef)
 
 
 ## SNS notification 
